@@ -1,0 +1,40 @@
+.orders-table h1{
+    text-align: center;
+    padding: 2%;
+    color: #50281A;
+    
+}
+
+.orders-table {
+    margin-top: 5%;
+    
+}
+
+.order-table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    
+}
+
+.order-table th,
+.order-table td {
+    padding: 20px;
+    text-align: left;
+    border: 1px solid #ddd;
+    width: 270px;
+    
+
+}
+
+.order-table th {
+    background-color: #f2f2f2;
+}
+
+.order-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.order-table tr:hover {
+    background-color: #ddd;
+}

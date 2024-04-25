@@ -1,0 +1,21 @@
+ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    
+}
+li{
+    border: 2px solid burlywood;
+    padding: 10px;
+    border-radius: 10px;
+}
+.pili{
+    text-align: center;
+    display: flex;
+}
+.pname{
+    border: none;
+    font-weight: bold;
+    background-color: none;
+}
